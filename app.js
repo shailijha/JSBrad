@@ -1,1 +1,14 @@
-alert('Hello');
+//alert('Hello');
+console.log('Hi!');
+console.table({ a: 1, b: 2 });
+console.error('This is an error');
+console.clear();
+console.time('Hello');
+console.log('Hi!');
+console.log('Hi!');
+console.log('Hi!');
+console.log('Hi!');
+console.log('Hi!');
+console.log('Hi!');
+console.log('Hi!');
+console.timeEnd('Hello');
